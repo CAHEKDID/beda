@@ -1,0 +1,116 @@
+*
+{
+margin: 0px;
+padding: 0px;
+}
+header
+{
+    position:relative;
+    height: 65px;
+    background-color: black;
+}
+.newcoll
+{
+    background-color: yellow;
+    height: 150px;
+}
+.btnnew
+{
+    position: relative;
+    top: -20px;
+    left: 70px;
+    font-size: 25px;
+    padding: 8px;
+    background-color: black;
+    color: white;
+    
+}
+
+.logo
+{
+    position: relative;
+    left: 48%;
+    height: 75px;
+}
+.trash-bin
+{
+    position: relative;
+    top: -20px;
+    left: 89%;
+    height: 40px;
+}
+.slider_img
+{
+    border: 1px solid black;
+    width: 1364px;
+    height: 350px;
+}
+.slider__control {
+    position: absolute;
+    top: 50%;
+    /* display: none; */
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    color: #fff;
+    text-align: center;
+    opacity: 0.5;
+    height: 50px;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.5);
+  }
+  .btn-prev
+  {
+      background-color: black;
+  }
+.sasles
+{
+    left: 90px;
+    padding: 50px;
+}
+.arrow
+{
+    position: relative;
+    top: 20px;
+    left: 250px;
+    height: 100px;
+}
+.sales
+{
+
+    background-color: #ECEFF1;
+    position:relative;
+    
+    font-family: 'Prata', serif;
+    font-size: 50px;
+    
+}
+.aboutus
+{
+    padding: 60px;
+    padding-bottom: 100px;
+    background-color: black;
+    text-align: center;
+    
+}
+.txtUs
+{
+    color: whitesmoke;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Train One', cursive;
+}
+.ps
+{
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Train One', cursive;
+    color: yellow;
+}
+.foots
+{
+    padding: 140px;
+    height: 50px;
+}
+ footer
+ {
+    background-color: black;
+ }

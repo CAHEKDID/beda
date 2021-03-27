@@ -1,0 +1,31 @@
+.products {
+    background-color: white;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+}
+.post
+{
+    text-align: center;
+}
+.postImg
+{
+    width: 333px;
+}
+.postTxt
+{
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Train One', cursive;
+}
+.postColor
+{
+    color: #BBBBBB;
+}
+.postPrice
+{
+    color: red;
+}
+
